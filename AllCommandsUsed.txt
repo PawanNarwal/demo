@@ -1,6 +1,0 @@
-This is first demo file for GitHub.
-GitHub is easy to use. I have mapped this GitHub project on MacBook and try to upload this file on the Git server.
-
-Thanks 
-Pawan Narwal
-
